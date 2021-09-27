@@ -11,6 +11,7 @@ function getTranslateURL(text) {
 
 function erroeHandler(error) {
     console.log("error occured", error)
+    alert("something wrong with server")
 }
 
 
